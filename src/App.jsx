@@ -4,7 +4,7 @@ import Meme from './Meme'
 
 export default function App() {
   return (
-    <div>
+    <div className='app'>
       <Header/>
       <Meme/>
     </div>
