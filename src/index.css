@@ -5,6 +5,7 @@
 
 .container {
   padding: 25px;
+  margin: 0;
 }
 
 nav {
@@ -51,4 +52,8 @@ nav {
     color: white;
     border: none;
     cursor: pointer;
+}
+
+.memes-image {
+  max-width: 100%;
 }
